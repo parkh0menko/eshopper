@@ -23,9 +23,8 @@
                     </form>
                 </div><!--/sign up form-->
 
-
-                <br/>
-                <br/>
+                <br>
+                <br>
             </div>
         </div>
     </div>
