@@ -86,6 +86,13 @@ class User
         return false;
     }
     
+    public static function checkPhone($phone) {
+        if (strlen($phone) >= 10) {
+            return true;
+        }
+        return false;
+    }
+
     // Проверяет пароль: не меньше, чем 6 символов
     public static function checkPassword($password) {
         if (strlen($password) >= 6) {

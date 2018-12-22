@@ -9,6 +9,8 @@
 </footer><!--/Footer-->
 
 <script src="/eshopper/template/js/jquery.js"></script>
+<script src="/eshopper/template/js/jquery.cycle2.min.js"></script>
+<script src="/eshopper/template/js/jquery.cycle2.carousel.min.js"></script>
 <script src="/eshopper/template/js/bootstrap.min.js"></script>
 <script src="/eshopper/template/js/jquery.scrollUp.min.js"></script>
 <script src="/eshopper/template/js/price-range.js"></script>
