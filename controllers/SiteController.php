@@ -7,7 +7,7 @@ class SiteController {
 		
 		$latestProducts = Product::getLatestProducts();
 
-		$recomendedProducts = Product::getRecomendedProducts();
+		$recommendedProducts = Product::getRecommendedProducts();
 
 		require_once ROOT . '/views/site/index.php';
 
